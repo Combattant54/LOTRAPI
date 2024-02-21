@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>fr.combattant54</groupId>
-    <artifactId>lotr</artifactId>
+    <artifactId>lotrapi</artifactId>
     <version>0.1</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
