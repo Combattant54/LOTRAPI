@@ -115,9 +115,9 @@ public abstract class RoleImpl implements IRole, IRoleExtended, Cloneable, IDisp
         }
 
         if (this.isWereWolf()) {
-            return Camp.WEREWOLF;
+            return Camp.DARK_SIDE;
         }
-        return Camp.VILLAGER;
+        return Camp.RING_COMMUNITY;
     }
 
     @Override

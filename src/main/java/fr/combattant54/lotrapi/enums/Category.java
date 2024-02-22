@@ -5,9 +5,9 @@ import java.util.Optional;
 
 @SuppressWarnings({"unused"})
 public enum Category {
-    WEREWOLF("werewolf.categories.werewolf", "werewolf.categories.colors.werewolf"),
-    VILLAGER("werewolf.categories.villager", "werewolf.categories.colors.villager"),
-    NEUTRAL("werewolf.categories.neutral", "werewolf.categories.colors.neutral");
+    DARK_SIDE("lotr.categories.dark_side", "lotr.categories.colors.dark_side"),
+    RING_COMMUNITY("lotr.categories.ring_community", "lotr.categories.colors.ring_community"),
+    NEUTRAL("lotr.categories.neutral", "lotr.categories.colors.neutral");
 
     private final String key;
     private final String chatColor;

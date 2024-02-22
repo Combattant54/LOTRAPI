@@ -2,12 +2,12 @@ package fr.combattant54.lotrapi.enums;
 
 @SuppressWarnings({"unused"})
 public enum RoleAttribute {
-    VILLAGER("werewolf.attributes.villager"),
-    MINOR_INFORMATION("werewolf.attributes.minor_information"),
-    INFORMATION("werewolf.attributes.information"),
-    WEREWOLF("werewolf.attributes.werewolf"),
-    HYBRID("werewolf.attributes.hybrid"),
-    NEUTRAL("werewolf.attributes.neutral");
+    RING_COMMUNITY("lotr.attributes.viring_communityllager"),
+    MINOR_INFORMATION("lotr.attributes.minor_information"),
+    INFORMATION("lotr.attributes.information"),
+    DARK_SIDE("lotr.attributes.dark_side"),
+    HYBRID("lotr.attributes.hybrid"),
+    NEUTRAL("lotr.attributes.neutral");
 
     private final String key;
 

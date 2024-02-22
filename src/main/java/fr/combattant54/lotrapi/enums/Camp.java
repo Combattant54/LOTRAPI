@@ -2,9 +2,9 @@ package fr.combattant54.lotrapi.enums;
 
 @SuppressWarnings({"unused"})
 public enum Camp {
-    WEREWOLF("werewolf.categories.werewolf"),
-    NEUTRAL("werewolf.categories.neutral"),
-    VILLAGER("werewolf.categories.villager");
+    DARK_SIDE("lotr.categories.dark_side"),
+    NEUTRAL("lotr.categories.neutral"),
+    RING_COMMUNITY("lotr.categories.ring_community");
 
     private final String key;
 
